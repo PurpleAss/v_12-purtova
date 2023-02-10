@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">purtova-v-12</string>
+    <string name="avt">Авторизоваться</string>
+    <string name="perstxt">Личный кабинет</string>
+    <string name="hellotxt">Привет, User!</string>
+    <string name="maptxt">Выбрать отделение банка на карте</string>
+    <string name="chattxt">Онлайн чат</string>
+    <string name="setting">Настройки</string>
+    <string name="searchtxt">Поиск</string>
+    <string name="check1">Показывать баланс в ЛК</string>
+    <string name="check2">Подключить защитное соединение</string>
+    <string name="check3">Уведомлять об всех моих транзакциях</string>
+    <string name="todo">TODO</string>
+</resources>
